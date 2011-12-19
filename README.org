@@ -1,0 +1,3 @@
+* Dylan Package Manager
+
+A package manager for OpenDylan. Currently in a snippet stage.
